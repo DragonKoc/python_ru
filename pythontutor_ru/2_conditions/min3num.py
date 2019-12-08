@@ -1,3 +1,5 @@
+#min from 3 num
+
 a = int(input())
 b = int(input())
 c = int(input())
